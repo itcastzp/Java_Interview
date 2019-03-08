@@ -1,5 +1,5 @@
 # 你应该知道的 volatile 关键字
-
+原文出处：https://crossoverjie.top/2018/03/09/volatile/
 ## 前言
 
 不管是在面试还是实际开发中 `volatile` 都是一个应该掌握的技能。
