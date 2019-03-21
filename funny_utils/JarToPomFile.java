@@ -15,8 +15,8 @@ import org.jsoup.Jsoup;
 import com.alibaba.fastjson.JSONObject;
 
 /**
- * Hello world!
- *
+ *自动将某一路径下的jar包转换成pom文件格式，适用于将老项目转换为maven项目的场景，不用添加复杂jar包
+ *note 可能会出现部分坐标丢失情况还需手动搜索依赖。
  */
 public class App 
 {
